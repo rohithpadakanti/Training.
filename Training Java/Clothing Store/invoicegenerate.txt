@@ -1,0 +1,7 @@
+
+Generated Invoice:
+ -------------------------
+Products     quantity     Bill
+    C         3           900.0
+-------------------------
+Total: 1170.0 (900.0Rs + 30% GST i.e. 270.0Rs)
